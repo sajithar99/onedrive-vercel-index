@@ -56,7 +56,7 @@ module.exports = {
       link: 'https://http://sn0wflake.xlayer.ml/',
     },
     {
-      name: 'Mail',
+      name: 'CC',
       link: 'mailto:cece@r2hr.onmicrosoft.com',
     },
   ],
