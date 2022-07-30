@@ -42,7 +42,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
+  protectedRoutes: ['/ms-xlayer', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:cece@r2hr.onmicrosoft.com',
@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'sn0wflake',
-      link: 'https://http://sn0wflake.xlayer.ml/',
+      link: 'http://sn0wflake.xlayer.ml/',
     },
     {
       name: 'CC',
